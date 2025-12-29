@@ -1,4 +1,4 @@
-![app_capture0](images/app_capture0.png)
+![app_capture0](images/app_capture0.jpg)
 
 # Mech Arena 1: Architect's Protocol
 
@@ -738,4 +738,3 @@ This project builds upon the foundations of the following projects:
   - Flexible technology stack selection within specified constraints
   - Comprehensive behavioral specifications for consistent rebuilds
   - Automatic adaptation to newer LLM models and capabilities
-
