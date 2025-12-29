@@ -724,6 +724,7 @@ View your app in AI Studio: https://ai.studio/apps/drive/11o2sdzQceWR7fYuUhKnvlb
 
 ## Acknowledgments
 *   Special thanks to ScuffedEpoch for the TINS methodology and the initial example.
+*   The [TINS](https://github.com/MushroomFleet/TINS-for-Skills/blob/main/GAMES/MechArenaTINS.md) used for this project
 *   Thanks to the free tier AI assistant for its initial contribution to the project.
 *   Research LLM Gemini 3 pro (free tier beta testing) from Google AI Studio.
 
@@ -737,3 +738,4 @@ This project builds upon the foundations of the following projects:
   - Flexible technology stack selection within specified constraints
   - Comprehensive behavioral specifications for consistent rebuilds
   - Automatic adaptation to newer LLM models and capabilities
+
